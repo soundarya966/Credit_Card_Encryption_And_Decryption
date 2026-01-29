@@ -1,4 +1,4 @@
-# Credit Card Encryption & Tokenization Project
+# Credit Card Encryption & Decryption
 
 ## Description
 Secure credit card PAN handling using encryption, tokenization, and masking.
@@ -11,3 +11,4 @@ Secure credit card PAN handling using encryption, tokenization, and masking.
 ## How to Run
 javac -cp "lib/*" src/*.java
 java -cp "lib/*;src" Main
+
